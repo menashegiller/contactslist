@@ -25,6 +25,9 @@ body {
   background-color: aliceblue;
   text-align: center;
 }
+.contact:hover {
+  cursor: pointer;
+}
 
 .backButton {
   margin-bottom: 20px;
